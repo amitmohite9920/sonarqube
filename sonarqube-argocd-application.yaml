@@ -9,7 +9,7 @@ spec:
 
   source:
     repoURL: https://github.com/amitmohite9920/sonarqube.git
-    targetRevision: HEAD
+    targetRevision: main
     path: .
 
   destination:
