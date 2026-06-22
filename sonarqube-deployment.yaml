@@ -15,7 +15,7 @@ spec:
         app: sonarqube
 
     spec:
-      nodeName: node1
+      nodeName: master
       containers:
       - name: sonarqube
         image: sonarqube:lts-community
